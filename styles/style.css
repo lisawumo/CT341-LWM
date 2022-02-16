@@ -1,1 +1,12 @@
 
+    h1, h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size:30px;
+      color:#0300fe;
+    }
+
+    p, a {
+      font-family: 'Open Sans', sans-serif;
+      font-size:15px;
+      color:#030055;
+    }
