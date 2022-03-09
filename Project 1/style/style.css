@@ -1,0 +1,120 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 100vh;
+}
+
+.hero-content {
+  width: 50%;
+  text-align: center;
+  color: #000;
+}
+
+p {
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+a {
+  margin-top: 30px;
+  margin-right:10px;
+  background-color: rgb(0, 0, 0, 0.6);
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+}
+
+span .font-pair1a{
+  font-family: 'Roboto', sans-serif;
+}
+
+span .font-pair1b{
+  font-family: 'Cabin', sans-serif;
+}
+
+
+/* add your css below this line */
+
+.hero-background {
+  background: url("https://images.pexels.com/photos/234133/pexels-photo-234133.jpeg") no-repeat fixed center;
+  background-size: cover;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first-section-background {
+  background: url("https://images.pexels.com/photos/6249454/pexels-photo-6249454.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+}
+
+.second-section-background {
+  background: url("https://reliablepsd.com/wp-content/themes/reliable/images/blog/bg07.jpg") no-repeat fixed bottom;
+}
+
+.third-section-background {
+  background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+}
+
+.with-background {
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  padding: 50px 0;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 65px;
+  font-weight: 400;
+  margin: 0;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 200;
+  line-height: 40px;
+}
+
+h3 {
+  font-size: 55px;
+  font-weight: 200;
+  line-height: 40px;
+  margin: 0;
+}
+
+article {
+  max-width: 50%;
+  margin: 20px auto;
+  padding: 50px;
+}
+
+.first-article-container {
+  background-color: #e2b400;
+}
+
+.second-article-container {
+  background-color: #a66746;
+}
+
+.third-article-container {
+  background-color: #a69991;
+}
+
