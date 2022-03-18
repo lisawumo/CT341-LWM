@@ -1,0 +1,2 @@
+
+$(".hero-content").fadeIn("slow");
